@@ -1,0 +1,14 @@
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\bin\Debug\netcoreapp3.1\23Dec_Lab1.exe
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\bin\Debug\netcoreapp3.1\23Dec_Lab1.deps.json
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\bin\Debug\netcoreapp3.1\23Dec_Lab1.runtimeconfig.json
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\bin\Debug\netcoreapp3.1\23Dec_Lab1.runtimeconfig.dev.json
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\bin\Debug\netcoreapp3.1\23Dec_Lab1.dll
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\bin\Debug\netcoreapp3.1\23Dec_Lab1.pdb
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\obj\Debug\netcoreapp3.1\23Dec_Lab1.csproj.AssemblyReference.cache
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\obj\Debug\netcoreapp3.1\23Dec_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\obj\Debug\netcoreapp3.1\23Dec_Lab1.AssemblyInfoInputs.cache
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\obj\Debug\netcoreapp3.1\23Dec_Lab1.AssemblyInfo.cs
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\obj\Debug\netcoreapp3.1\23Dec_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\obj\Debug\netcoreapp3.1\23Dec_Lab1.dll
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\obj\Debug\netcoreapp3.1\23Dec_Lab1.pdb
+C:\Users\heybe\source\repos\23Dec_Lab1\23Dec_Lab1\obj\Debug\netcoreapp3.1\23Dec_Lab1.genruntimeconfig.cache
